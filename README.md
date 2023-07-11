@@ -1,5 +1,11 @@
-# Personal Works
+# Personal Portfolio
 个人作品展示，持续更新（按时间顺序）
+## 渲染技术
+### 01 [环境光遮蔽（SSAO）](./SSAO)
+**工作介绍** 
+跟着LearnOpenGL上的教程学做了SSAO，模型用的是Sponza。环境光遮蔽对渲染真实度的影响还是很明显的，借助这次复现（Debug）初步认识了渲染的整体流程。 
+<center><img src="SSAO/Pics/SSAO.gif" width="50%" alt="ssaoSponza" /></center>
+
 ## 工程项目
 ### 01 [Litemall微信小商城](./Litemall)
 **项目介绍** 
@@ -20,4 +26,3 @@ Springboot ; MYSQL ; Redis ; Nginx ; Zuul
 MRTK ; SteamVR ; Unity ; SLAM ; 3D Registration
 <center><img src="MRMutiplayerAssembly/Pics/mrma.gif" alt="mrma"  /></center>
 
-## 渲染技术
