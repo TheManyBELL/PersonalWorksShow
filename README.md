@@ -31,7 +31,7 @@ MRTK; SteamVR; Unity; SLAM; 3D Registration
 **项目介绍** 
 为提高运行帧率的同时保证用户视觉体验，在虚拟现实交互项目中加入凝视点渲染技术，在保留用户关注区域高分辨率的同时降低非关注区域的分辨率。具体工作是在Unity渲染管线中实现基于矩形映射的凝视点渲染(RMFR)<sup><a href="#参考文献">1</a></sup>，并能搭配HMD和眼动仪正常运行。  
 **相关技术** Unity SRP; Deferred Shading; Foveated Rendering
-<center><img src="fovedRender/Pics/fovrender_1.jpg" alt="rmfr"  /></center>
+<center><img src="fovedRender/Pics/fovrender_1.jpg" width="600" alt="rmfr"  /></center>
 
 ### 04 [Litemall微信小商城](./Litemall)
 **项目介绍** 
@@ -45,7 +45,7 @@ Springboot; MYSQL; Redis; Nginx; Zuul
 在虚拟现实环境中设计一种基于可变交互区域的虚拟对象操作方法，通过构建交互热度图分析用户操作行为并更新交互区域，从而支持多种精度的对象操作，提高用户操作效率，降低操作负担，让操作流程更加自然。  
 **相关技术**
 Unity；SteamVR；眼动跟踪  
-<center><img src="./VRManipulation/Pics/序列 09.gif" width="420" alt="vrm_comparison"  /> <img src="./VRManipulation/Pics/comparision.png" width="350" alt="vrm_comparison"  /></center>
+<center><img src="./VRManipulation/Pics/序列 09.gif" width="380" alt="vrm_comparison"  /> <img src="./VRManipulation/Pics/comparision.png" width="315" alt="vrm_comparison"  /></center>
 
 
 
